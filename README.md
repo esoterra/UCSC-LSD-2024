@@ -1,4 +1,4 @@
-# UC Santa Cruz Language, Systems, and Design Seminar demo 2024
+# UC Santa Cruz Language, Systems, and Data Seminar demo 2024
 
 ## Setup
 
